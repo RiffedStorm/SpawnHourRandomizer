@@ -38,6 +38,9 @@ Clone this repo and open it in IntelliJ IDEA (or your IDE of choice). Gradle han
 
 Requires **Java 21** and NeoForge's ModDevGradle plugin. See `build.gradle` for details.
 
+## Note
+This project was made with an AI hosted locally by [Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled — APEX-MTP Quality GGUF](https://huggingface.co/mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute it — just include a copy of this license in any derived work.
