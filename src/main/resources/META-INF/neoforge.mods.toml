@@ -1,0 +1,28 @@
+# This is an example neoforge.mods.toml file for the "spawn_hour_randomizer" mod.
+modLoader="javafml" #mandatory
+loaderVersion="[1,)" #mandatory
+license="MIT"
+
+[[mods]] #mandatory
+modId="spawn_hour_randomizer"
+version="0.1-Alpha"
+displayName="Spawn Hour Randomizer"
+description='''
+Randomizes the time of day on a new world to make each world unique.
+'''
+
+# A dependency - use the . to indicate required for a specific modid. Dependencies are optional.
+[[dependencies.spawn_hour_randomizer]] #optional
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.252,)"
+    ordering="NONE"
+    side="BOTH"
+
+# Another dependency
+[[dependencies.spawn_hour_randomizer]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"

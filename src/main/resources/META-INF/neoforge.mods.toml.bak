@@ -1,0 +1,14 @@
+# This is an example neoforge.mods.toml file for a mod named "spawn_hour_randomizer"
+type = 'mod'
+license = 'All Rights Reserved - Do Not Share or Distribute'
+
+[[mods]]
+modId = 'spawn_hour_randomizer'
+displayName = 'Spawn Hour Randomizer'
+authors = 'riffedstorm'
+description = '''Randomizes the time of day on a new world to make each world unique.'''
+version = '${file.jarVersion}'
+logoFile = '' # optional, filepath is relative to the root jar path
+
+[modproperties.spawn_hour_randomizer]
+catalogueImageIcon = ''
