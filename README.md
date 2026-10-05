@@ -16,7 +16,6 @@ It picks a random tick value between 0 and 23999 (a full in-game cycle) on your 
 
 - **Random spawn time** — each brand-new world starts at a random time between 0–23999 ticks
 - **One-time only** — runs once per save, then remembers via persistent data (no re-randomizing on reloads)
-- **Overworld only** — doesn't touch the Nether or End dimensions
 - **Works without cheats** — no command permissions needed, so it's fully compatible with Hardcore mode
 
 ## Installation
