@@ -28,7 +28,7 @@ That's it — no configs, no extra setup. Just create a new world and enjoy the 
 
 ## Development
 
-Clone this repo and open it in IntelliJ IDEA (or your IDE of choice). Gradle handles everything:
+Clone this repo and open it. Gradle handles everything:
 
 ```bash
 ./gradlew runClient   # launch a development instance
