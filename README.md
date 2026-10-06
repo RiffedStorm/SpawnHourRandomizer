@@ -6,6 +6,10 @@
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1.252-orange)](https://github.com/neoforged/NeoForge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## 📸 Preview
+
+![World creation showcase](docs/screenshots/SpawnHourRandomizer.webp)
+
 ## Why?
 
 Every Minecraft world starts at the exact same time of day — bright morning. But what if each new save began at a random hour, including night? That's exactly what this mod does.
